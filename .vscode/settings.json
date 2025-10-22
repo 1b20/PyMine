@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": false,
+    "files.exclude": {
+        "**/.settings": true,
+        "**/.project": true,
+        "**/.pydevproject": true,
+        "**/__pycache__": true
+    },
+    
+}
