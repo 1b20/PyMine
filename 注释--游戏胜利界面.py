@@ -168,4 +168,5 @@ if __name__ == '__main__':# 测试代码
     frame = WinFrame(None, title="You win")
     frame.Size = (300, 200)
     frame.Show()
+
     app.MainLoop()
