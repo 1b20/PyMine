@@ -168,4 +168,5 @@ if __name__ == "__main__":
     # sys.argv[1]：地雷数量，sys.argv[2]：受保护行，sys.argv[3]：受保护列
     mine = MineAlgo(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]))
     # 打印生成的地图数据
+
     mine.printMine()
